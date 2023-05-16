@@ -9,4 +9,6 @@ int main()
     cout<<numero<<endl;
     numero=40;
     cout<<numero;
+
+    cout<<"hola me llamo rocio"
 }
